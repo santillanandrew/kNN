@@ -1,2 +1,2 @@
 # kNN
-kNN algorithm for Iris data set.
+kNN ML model written in Python. 
